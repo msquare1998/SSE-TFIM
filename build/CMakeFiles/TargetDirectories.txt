@@ -1,3 +1,0 @@
-/Users/cathan/Windows 11/UbuntuBackUp/mature240119/TFIM_1D/build/CMakeFiles/tfim.dir
-/Users/cathan/Windows 11/UbuntuBackUp/mature240119/TFIM_1D/build/CMakeFiles/edit_cache.dir
-/Users/cathan/Windows 11/UbuntuBackUp/mature240119/TFIM_1D/build/CMakeFiles/rebuild_cache.dir
